@@ -1,3 +1,5 @@
+## Try it today at [canvas-craft.github.io](https://canvas-craft.github.io)
+
 Welcome to **CanvasCraft**, the comprehensive creation tool for the web 🚀\
 CanvasCraft is a unique online tool designed to allow creators to easily make images, game levels, and entire worlds within minutes.
 
@@ -6,5 +8,3 @@ CanvasCraft is a unique online tool designed to allow creators to easily make im
 - 💡 Whether you're a coder, a digital artist, or are simply exploring different ways to create, CanvasCraft has been designed to bring your ideas to life.
 
 If you have any suggestions or feedback please get in touch at [hello@joachimford.uk](mailto:hello@joachimford.uk)
-
-## Try it today at [canvas-craft.github.io](https://canvas-craft.github.io)
