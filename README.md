@@ -8,5 +8,3 @@ CanvasCraft is a unique online tool designed to allow creators to easily make im
 If you have any suggestions or feedback please get in touch at [hello@joachimford.uk](mailto:hello@joachimford.uk)
 
 ## Try it today at [canvas-craft.github.io](https://canvas-craft.github.io)
-\
-![canvasCreator(65)](https://github.com/canvas-craft/canvas-craft/assets/169457495/ccc658d5-e377-4bbd-b65b-329c9a154f7f)
