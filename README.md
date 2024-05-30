@@ -1,3 +1,5 @@
+![canvasCreator(42)](https://github.com/canvas-craft/canvas-craft/assets/169457495/39b6f69e-1baf-477c-bd2f-edb24f039466)
+
 Welcome to **CanvasCraft**, the comprehensive creation tool for the web 🚀\
 CanvasCraft is a unique online tool designed to allow creators to easily make images, game levels, and entire worlds within minutes.
 
